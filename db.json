@@ -1,11 +1,4 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+
+  {"result":[{"id":34,"name":"Laag 1","subCategories":[{"id":65,"name":"Laag 1.1","subCategories":[{"id":97,"name":"Laag 1.1.1","subCategories":[],"sortIndex":0,"items":[{"id":35,"question":"Test FAQ 3","categories":[1,97]},{"id":33,"question":"Test FAQ 1","categories":[1,97,417]},{"id":1793,"question":"when will Iphone X come ?","categories":[97]},{"id":1,"question":"Test QA","categories":[97]}]}],"sortIndex":0,"items":[]}],"sortIndex":0,"items":[]},{"id":385,"name":"Laag 2","subCategories":[{"id":417,"name":"Laag 2.1","subCategories":[],"sortIndex":0,"items":[{"id":33,"question":"Test FAQ 1","categories":[1,97,417]}]}],"sortIndex":0,"items":[]},{"id":449,"name":"Laag 3","subCategories":[{"id":481,"name":"Laag 3.1","subCategories":[{"id":450,"name":"Laag 3.1.1","subCategories":[],"sortIndex":0,"items":[{"id":1633,"question":"Test Question Sander","categories":[450]},{"id":1665,"question":"Vraag het aan ubey","categories":[450]},{"id":1665,"question":"Vraag het anders aan Sander","categories":[450]},{"id":1825,"question":"Welke ingrediënten zijn voor pepernoten nodig?","categories":[450]}]}],"sortIndex":0,"items":[]}],"sortIndex":0,"items":[]},{"id":33,"name":"Default","subCategories":[],"sortIndex":1,"items":[]}],"sessionId":"c47761db-cb35-474a-9802-89789ca4a52c","interactionId":"89ab1190-cad7-45d1-bdc9-663f52767a44","culture":"nl"}
+
+
